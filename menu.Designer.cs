@@ -55,38 +55,38 @@ namespace proyectofinal_solutionswf
             this.ayudaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(998, 25);
+            this.menuStrip1.Size = new System.Drawing.Size(998, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(58, 21);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(54, 20);
             this.toolStripMenuItem1.Text = "Añadir";
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(46, 21);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(43, 20);
             this.toolStripMenuItem2.Text = "Lista";
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(58, 21);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(54, 20);
             this.toolStripMenuItem3.Text = "Buscar";
             // 
             // toolStripMenuItem4
             // 
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
-            this.toolStripMenuItem4.Size = new System.Drawing.Size(66, 21);
+            this.toolStripMenuItem4.Size = new System.Drawing.Size(62, 20);
             this.toolStripMenuItem4.Text = "Eliminar";
             // 
             // ayudaToolStripMenuItem
             // 
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(55, 21);
+            this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
             this.ayudaToolStripMenuItem.Text = "ayuda";
             // 
             // groupBox1
